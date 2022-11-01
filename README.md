@@ -1,5 +1,5 @@
-# (Prosper Loan Dataset Exploration)
-## by (Amazing-Grace Umoren)
+# Prosper Loan Dataset Exploration
+## by Amazing-Grace Umoren
 
 
 ## Dataset
